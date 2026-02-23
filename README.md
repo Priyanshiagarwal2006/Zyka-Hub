@@ -85,16 +85,16 @@ ZaykaHub follows a **MERN stack architecture**:
 ## 📸 Screenshots
 
 ### 🏠 Home Page  
-![Home](https://github.com/Priyanshiagarwal2006/ZykaHub/blob/main/home.png)
+![Home](https://github.com/Priyanshiagarwal2006/Zyka-Hub/blob/main/home.png)
 
 ### 🍽️ Menu Section  
-![Menu](https://github.com/Priyanshiagarwal2006/ZykaHub/blob/main/menu.png)
+![Menu](https://github.com/Priyanshiagarwal2006/Zyka-Hub/blob/main/menu.png)
 
 ### 📋 Reservation Form  
-![Reservation](https://github.com/Priyanshiagarwal2006/ZykaHub/blob/main/reservation.png)
+![Reservation](https://github.com/Priyanshiagarwal2006/Zyka-Hub/blob/main/overview.png)
 
 ### ✅ Sucess  
-![Success](https://github.com/Priyanshiagarwal2006/ZykaHub/blob/main/overview.png)
+![Success](https://github.com/Priyanshiagarwal2006/Zyka-Hub/blob/main/reservation.png)
 
 ---
 
